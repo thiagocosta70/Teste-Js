@@ -1,2 +1,2 @@
-# Teste-Js
-Repositório para teste de arquivos em javascript
+# Javascript
+## Repositório para teste e exercicios de arquivos em javascript
